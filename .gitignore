@@ -1,0 +1,4 @@
+data/flower_photos
+**/__pycache__/**
+.vscode
+venv
